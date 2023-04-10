@@ -1,0 +1,6 @@
+mode: set
+github.com/moaabb/product-api/pkg/handlers/handlers.go:16.53,18.2 1 1
+github.com/moaabb/product-api/pkg/handlers/handlers.go:20.56,26.2 3 1
+github.com/moaabb/product-api/pkg/handlers/handlers.go:28.58,35.37 4 1
+github.com/moaabb/product-api/pkg/handlers/handlers.go:35.37,38.3 2 0
+github.com/moaabb/product-api/pkg/handlers/handlers.go:40.2,40.39 1 1
